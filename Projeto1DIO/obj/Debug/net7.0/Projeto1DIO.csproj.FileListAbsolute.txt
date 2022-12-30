@@ -1,0 +1,15 @@
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\bin\Debug\net7.0\Projeto1DIO.exe
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\bin\Debug\net7.0\Projeto1DIO.deps.json
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\bin\Debug\net7.0\Projeto1DIO.runtimeconfig.json
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\bin\Debug\net7.0\Projeto1DIO.dll
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\bin\Debug\net7.0\Projeto1DIO.pdb
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\Projeto1DIO.csproj.AssemblyReference.cache
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\Projeto1DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\Projeto1DIO.AssemblyInfoInputs.cache
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\Projeto1DIO.AssemblyInfo.cs
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\Projeto1DIO.csproj.CoreCompileInputs.cache
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\Projeto1DIO.dll
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\refint\Projeto1DIO.dll
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\Projeto1DIO.pdb
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\Projeto1DIO.genruntimeconfig.cache
+C:\Users\Savio\Documents\Projetos\Projeto1DIO\obj\Debug\net7.0\ref\Projeto1DIO.dll
